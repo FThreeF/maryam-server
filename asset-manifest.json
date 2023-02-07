@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/maryam-server/static/css/main.2e79e4fa.css",
-    "main.js": "/maryam-server/static/js/main.46a272e2.js",
+    "main.css": "/maryam-server/static/css/main.dab6e957.css",
+    "main.js": "/maryam-server/static/js/main.9ef22ba6.js",
     "static/media/quoteBackground.png": "/maryam-server/static/media/quoteBackground.66f2095b219f2a46bb43.png",
     "static/media/yourHelpBackground.png": "/maryam-server/static/media/yourHelpBackground.d7b0eb7c2f34dc23f1e1.png",
     "static/media/mainBlockBackground.png": "/maryam-server/static/media/mainBlockBackground.b6c8984b2d08dff7f6a9.png",
@@ -16,13 +16,13 @@
     "static/media/explanationsIcon1.svg": "/maryam-server/static/media/explanationsIcon1.b2b39a6f8cfa5528b219ccc996192916.svg",
     "static/media/explanationsIcon3.svg": "/maryam-server/static/media/explanationsIcon3.7ff42fc7488c973f6ece3fb6fc34ea41.svg",
     "static/media/explanationsIcon2.svg": "/maryam-server/static/media/explanationsIcon2.00938ba60f5ab03219ae3549eafc9dc9.svg",
-    "static/media/documentIcon.svg": "/maryam-server/static/media/documentIcon.fb08f20285f4598e191842e1580e7b95.svg",
+    "static/media/documentIcon.svg": "/maryam-server/static/media/documentIcon.3723318396bca5fcbecf1293c772f245.svg",
     "index.html": "/maryam-server/index.html",
-    "main.2e79e4fa.css.map": "/maryam-server/static/css/main.2e79e4fa.css.map",
-    "main.46a272e2.js.map": "/maryam-server/static/js/main.46a272e2.js.map"
+    "main.dab6e957.css.map": "/maryam-server/static/css/main.dab6e957.css.map",
+    "main.9ef22ba6.js.map": "/maryam-server/static/js/main.9ef22ba6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e79e4fa.css",
-    "static/js/main.46a272e2.js"
+    "static/css/main.dab6e957.css",
+    "static/js/main.9ef22ba6.js"
   ]
 }
